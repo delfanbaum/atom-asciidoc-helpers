@@ -1,0 +1,18 @@
+{
+  "name": "atom-asciidoc-helpers",
+  "main": "./lib/atom-asciidoc-helpers",
+  "version": "1.0.0",
+  "description": "Adds styling functionality for asciidoc files.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-asciidoc-helpers:toggle"
+  },
+  "repository": "https://github.com/atom/atom-asciidoc-helpers",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

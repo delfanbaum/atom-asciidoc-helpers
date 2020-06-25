@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-asciidoc-helpers",
+        "command": "atom-asciidoc-helpers:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-asciidoc-helpers",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-asciidoc-helpers:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
